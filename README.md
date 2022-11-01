@@ -4,6 +4,7 @@
 
 ## Language and tools
 ![Blender](https://img.shields.io/badge/Blender-262424?style=for-the-badge&logo=Blender&logoColor=FF4500)
+![Golang](https://img.shields.io/badge/Golang-262424?style=for-the-badge&logo=Go)
 ![Python](https://img.shields.io/badge/Python-262424?style=for-the-badge&logo=Python)
 
 ## Statistics
